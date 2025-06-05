@@ -1,0 +1,6 @@
+credentials.py
+hugo_content
+user_session.session
+bot_session.session
+botenv
+__pycache__
